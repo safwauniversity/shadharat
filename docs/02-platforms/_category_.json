@@ -1,0 +1,9 @@
+{
+    "label": "المنصات والتطبيقات",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "التفاصيل التقنية للمنصات المدعومة.",
+        "slug": "/platforms"
+    }
+}

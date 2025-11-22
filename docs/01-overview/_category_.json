@@ -1,0 +1,9 @@
+{
+    "label": "نظرة عامة",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "مقدمة عن مشروع منصة شذرات ورؤيته.",
+        "slug": "/overview"
+    }
+}

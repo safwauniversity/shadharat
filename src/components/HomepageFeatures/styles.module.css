@@ -1,0 +1,26 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.roleBadge {
+  display: inline-block;
+  background-color: var(--ifm-color-primary-lightest);
+  color: #fff;
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+[data-theme='dark'] .roleBadge {
+  background-color: var(--ifm-color-primary);
+  color: #000;
+}
+
+.buttons {
+  margin-top: 1rem;
+}

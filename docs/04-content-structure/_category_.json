@@ -1,0 +1,9 @@
+{
+    "label": "هيكلة المحتوى",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "هيكلة وتنظيم المحتوى في المنصة.",
+        "slug": "/content-structure"
+    }
+}

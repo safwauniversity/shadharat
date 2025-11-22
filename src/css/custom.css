@@ -1,0 +1,37 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+/* Import Tajawal Font */
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+:root {
+  /* Shadharat Color Palette */
+  --ifm-color-primary: #1a3c5e; /* Deep Blue */
+  --ifm-color-primary-dark: #173655;
+  --ifm-color-primary-darker: #163350;
+  --ifm-color-primary-darkest: #122a42;
+  --ifm-color-primary-light: #1d4267;
+  --ifm-color-primary-lighter: #1f466c;
+  --ifm-color-primary-lightest: #224f7a;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
+  /* Global Font */
+  --ifm-font-family-base: 'Tajawal', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #d4af37; /* Gold for Dark Mode */
+  --ifm-color-primary-dark: #bf9e32;
+  --ifm-color-primary-darker: #b5952f;
+  --ifm-color-primary-darkest: #957b27;
+  --ifm-color-primary-light: #d9b74b;
+  --ifm-color-primary-lighter: #dbbb55;
+  --ifm-color-primary-lightest: #e2c673;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

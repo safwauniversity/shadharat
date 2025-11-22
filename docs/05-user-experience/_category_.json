@@ -1,0 +1,9 @@
+{
+    "label": "تجربة المستخدم",
+    "position": 5,
+    "link": {
+        "type": "generated-index",
+        "description": "تفاصيل تجربة المستخدم وواجهات الاستخدام.",
+        "slug": "/user-experience"
+    }
+}

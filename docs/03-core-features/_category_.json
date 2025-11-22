@@ -1,0 +1,9 @@
+{
+    "label": "الميزات والخصائص",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "الميزات التقنية والأساسية للمنصة.",
+        "slug": "/core-features"
+    }
+}
